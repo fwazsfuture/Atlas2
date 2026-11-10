@@ -1,0 +1,12 @@
+{
+  "name": "Atlas — Geography Quest",
+  "short_name": "Atlas",
+  "description": "Explore the world one lesson at a time.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#081c2b",
+  "theme_color": "#081c2b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
